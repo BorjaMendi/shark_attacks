@@ -1,10 +1,25 @@
 # 🚀 **AquaVentura: Mejora de la Seguridad en Actividades Acuáticas** 🌊
 
 En **AquaVentura**, nuestra misión es ofrecer experiencias inolvidables en actividades acuáticas, ¡pero siempre con la seguridad de nuestros clientes en mente! Este proyecto tiene como objetivo analizar los incidentes pasados relacionados con ataques de tiburones para encontrar áreas de mejora y hacer que nuestras actividades sean más seguras.
+AquaVentura ofrece sus emocionantes actividades acuáticas en los siguientes destinos:
 
+### 🌍 **¿En qué países estamos?**
+
+- **España** (Canarias, Baleares, Costa del Sol)
+- **Portugal** (Algarve, Azores, Madeira)
+- **Grecia** (Islas Griegas)
+- **Croacia** (Costa Dálmata)
+- **Tailandia** (Phuket, Krabi, Islas Phi Phi)
+- **Indonesia** (Bali, Komodo, Lombok)
+- **Filipinas** (Más de 7,000 islas)
+- **Japón** (Okinawa)
+- **México** (Costa Pacífica, Caribe)
+- **Perú** (Costa Peruana)
+- **Cuba** (Varadero, Jardines del Rey)
+  
 ###  **¿Qué Hicimos?**
 
-- **Análisis de datos**: Recibimos un dataset con información sobre incidentes en actividades acuáticas como **swimming**, **surf**, **diving** y más.
+- **Análisis de datos**: Recibimos un dataset con información sobre incidentes de **ataques de tiburones**
 - **Limpieza de datos**: Usamos **Python**, **Pandas** y **NumPy** para limpiar y estructurar los datos de manera útil.
 - **Insights clave**: Identificamos patrones sobre las actividades, los meses más peligrosos, los rangos de edad más afectados y las tasas de fatalidades.
 
