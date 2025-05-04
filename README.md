@@ -33,6 +33,7 @@ AquaVentura ofrece sus emocionantes actividades acuáticas en los siguientes des
 
 - **Excel limpio**: Los datos limpios y listos para su uso.
 - **Jupyter Notebook**: Todo el análisis detallado y el código utilizado.
+- **Power point**: Presentacion de nuestro analisis.
 
 ###  **Próximos Pasos**
 
